@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yang-ae
 - 👀 I’m interested in skin care.I'm an expert in Korean ginseng.
-- 🌱 I’m currently learning conatructing my web.
+- 🌱 I’m currently learning constructing my web.
 - 💞️ I’m looking to collaborate on the skin and health care field using ginseng and AI agent.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
